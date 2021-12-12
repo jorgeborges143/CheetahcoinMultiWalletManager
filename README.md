@@ -36,7 +36,7 @@ Requirements:
       - php
       - mysql-server
   
-  [SETUP]
+Setup:
   
     [windows]
       Download all the project files from last release and move them to c:\xampp\htdocs\
