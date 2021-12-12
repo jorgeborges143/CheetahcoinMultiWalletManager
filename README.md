@@ -53,10 +53,17 @@ Setup:
 In case of doubts please send an e-mail to:  cheetahcointools@gmail.com
   
 In order to get priority in response speed follow the rules below:
+  
   Priority Level | Subject
+  
        (1)       | CCMWMWR - Windows Issue/Vulnerability Report
+  
        (1)       | CCMWMLR - Linux Issue/Vulnerability Report
+  
        (2)       | CCMWMWI - Windows Installation & Configuration Help
+  
        (2)       | CCMWMLI - Linux Installation & Configuration Help
+  
        (3)       | CCMWMWS - Windows Support
+  
        (3)       | CCMWMLS - Linux Support
