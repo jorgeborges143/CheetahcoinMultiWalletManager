@@ -37,6 +37,7 @@ Requirements:
       - mysql-server
   
   [SETUP]
+  
     [windows]
       Download all the project files from last release and move them to c:\xampp\htdocs\
       Execute xampp and start Apache and MySQL
