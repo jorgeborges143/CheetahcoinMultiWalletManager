@@ -54,6 +54,7 @@ In case of doubts please send an e-mail to:  cheetahcointools@gmail.com
   
 In order to get priority in response speed follow the rules below:
   
+  
   Priority Level | Subject
   
        (1)       | CCMWMWR - Windows Issue/Vulnerability Report
