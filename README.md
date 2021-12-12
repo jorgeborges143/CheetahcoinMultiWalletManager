@@ -36,18 +36,18 @@ Requirements:
       - php
       - mysql-server
   
-[SETUP]
-  [windows]
-    Download all the project files from last release and move them to c:\xampp\htdocs\
-    Execute xampp and start Apache and MySQL
-    Go to c:\xampp\htdocs\managerdb and upload the project database into phpmyadmin ( http://127.0.0.1/phpmyadmin )
-    Once done go to http://127.0.0.1/ to access your dashboard [default username:password => chtamaster:chtamaster]
-  
-  [debian/ubuntu]
-    Download all the project files from last release and move them to /var/www/html/
-    Start apache2 and mysql-server service 
-    Go to /var/www/html/managerdb and upload the project database into phpmyadmin ( http://127.0.0.1/phpmyadmin )
-    Once done go to http://127.0.0.1/ to access your dashboard [default username:password => chtamaster:chtamaster]
+  [SETUP]
+    [windows]
+      Download all the project files from last release and move them to c:\xampp\htdocs\
+      Execute xampp and start Apache and MySQL
+      Go to c:\xampp\htdocs\managerdb and upload the project database into phpmyadmin ( http://127.0.0.1/phpmyadmin )
+      Once done go to http://127.0.0.1/ to access your dashboard [default username:password => chtamaster:chtamaster]
+
+    [debian/ubuntu]
+      Download all the project files from last release and move them to /var/www/html/
+      Start apache2 and mysql-server service 
+      Go to /var/www/html/managerdb and upload the project database into phpmyadmin ( http://127.0.0.1/phpmyadmin )
+      Once done go to http://127.0.0.1/ to access your dashboard [default username:password => chtamaster:chtamaster]
   
 In case of doubts please send an e-mail to:  cheetahcointools@gmail.com
   
