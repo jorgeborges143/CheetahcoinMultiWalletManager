@@ -1,6 +1,3 @@
-# Contacts:
-In case of any bugs, doubts or suggestions, please contact # cheetahcointools@gmail.com
-
 # CheetahcoinMultiWalletManager
 First Multi Wallet Manager for Cheetahcoin-qt/Cheetahcoind
 
@@ -55,10 +52,11 @@ Setup:
       Change database host,username,password and database on the file /var/www/html/phpIncludes/connection.php
       Once done go to http://127.0.0.1/ to access your dashboard [default username:password => chtamaster:chtamaster]
   
-In case of doubts please send an e-mail to:  cheetahcointools@gmail.com
+# Contacts:
+In case of any bugs, doubts or suggestions, please contact # cheetahcointools@gmail.com
+Take into consideration that this is not my main e-mail, if you're looking for any assistance, wait max 24 hours and if you don't get a reply, please forward the e-mail to jorgeborges143@gmail.com or text me on cheetahcoin discord server, this way you can catch my attention!
   
 In order to get priority in response speed follow the rules below:
-  
   
        Priority  | Subject
   
