@@ -1,5 +1,5 @@
 # Contacts:
-In case of any bug or suggestion, please contact # cheetahcointools@gmail.com
+In case of any bugs, doubts or suggestions, please contact # cheetahcointools@gmail.com
 
 # CheetahcoinMultiWalletManager
 First Multi Wallet Manager for Cheetahcoin-qt/Cheetahcoind
